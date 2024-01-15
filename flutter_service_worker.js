@@ -9,7 +9,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "3721095456bee7eb232efa5c3387145b
 "assets/assets/resume/Sarthak%2520CV.pdf": "26ecae428c948d355e9523f06af9f1bd",
 "assets/FontManifest.json": "1bea77f908e728900842c1f2b421df54",
 "assets/fonts/MaterialIcons-Regular.otf": "32fce58e2acb9c420eab0fe7b828b761",
-"assets/NOTICES": "53e66550500030c8042b565a5cc20e64",
+"assets/NOTICES": "0a6c66228120ea6e665024f4bd23cf8d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/fluttericon/lib/fonts/Brandico.ttf": "791921e9b25210e2551b6eda3f86c733",
 "assets/packages/fluttericon/lib/fonts/Elusive.ttf": "23f24df0388819e94db2b3c19841841c",
@@ -49,9 +49,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "3721095456bee7eb232efa5c3387145b
 "icons/favicon-32x32.png": "16f06fec211c839f155b5163560580c5",
 "icons/favicon.ico": "eb6f824b271a1f938c29122410d68085",
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
-"index.html": "72853a5a0171e48154b9e0083fb760be",
-"/": "72853a5a0171e48154b9e0083fb760be",
-"main.dart.js": "ae4c9d24a7754399c5e9ad17096bc17f",
+"index.html": "a6b4bbfcadfbc9b88405e490c1ee38ce",
+"/": "a6b4bbfcadfbc9b88405e490c1ee38ce",
+"main.dart.js": "ec33e8bc6dfd83dbbe3e1cac3c113499",
 "manifest.json": "ffb255e6ba2fe51041c7f5da949ad56c",
 "version.json": "4313165265cffac63b562e1c729c8347"};
 // The application shell files that are downloaded before a service worker can
