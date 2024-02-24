@@ -3,9 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "3721095456bee7eb232efa5c3387145b",
-"assets/AssetManifest.bin.json": "bbfc83005901095ed1057aef48e03117",
-"assets/AssetManifest.json": "154979763d6a0e20d7b4af72d5155321",
+const RESOURCES = {"assets/AssetManifest.bin": "8ad1c96d2572ff57ce495bb2b3a9df0a",
+"assets/AssetManifest.bin.json": "9d78be90b33f3fa9589b2121ca805c31",
+"assets/AssetManifest.json": "fc603d56e2a3fd0b034d07b6a7a024ce",
+"assets/assets/images/css.png": "0059bb9d9ac59dcb72f780c033a4d18d",
+"assets/assets/images/dart.png": "9bfd6395ba25e1bb74cf9745bc7e1034",
+"assets/assets/images/flutter.png": "600e8be5c37e8a93204250ca593e9095",
+"assets/assets/images/html.png": "e60c649d0e0437ab330d0683169e219f",
+"assets/assets/images/js.png": "77d2c28fef35a4c50ac85e47f39cea29",
+"assets/assets/images/udemy.jpg": "fcb7a86472053a88938f13e643c8a649",
 "assets/assets/resume/Sarthak%2520CV.pdf": "26ecae428c948d355e9523f06af9f1bd",
 "assets/FontManifest.json": "1bea77f908e728900842c1f2b421df54",
 "assets/fonts/MaterialIcons-Regular.otf": "32fce58e2acb9c420eab0fe7b828b761",
@@ -49,9 +55,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "3721095456bee7eb232efa5c3387145b
 "icons/favicon-32x32.png": "16f06fec211c839f155b5163560580c5",
 "icons/favicon.ico": "eb6f824b271a1f938c29122410d68085",
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
-"index.html": "2f7ca1d368e6b92b4404e6bcc2fdbdd8",
-"/": "2f7ca1d368e6b92b4404e6bcc2fdbdd8",
-"main.dart.js": "02432c79ad3d43239bab4488f3aaf23c",
+"index.html": "f458bd82d603508f3da9f32e6735ab2b",
+"/": "f458bd82d603508f3da9f32e6735ab2b",
+"main.dart.js": "fd3707a28eeb7b175137e4ec7002b89d",
 "manifest.json": "ffb255e6ba2fe51041c7f5da949ad56c",
 "version.json": "4313165265cffac63b562e1c729c8347"};
 // The application shell files that are downloaded before a service worker can
